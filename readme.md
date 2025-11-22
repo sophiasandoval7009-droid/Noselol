@@ -1,2 +1,2 @@
-# Blue-lock
+# equivocadp
 Un proyecto html
